@@ -1,6 +1,7 @@
 # Hi there 👋 Je m'appelle Lucas 
 
 Un **développeur front-end** diplômé du parcours [Openclassroom](https://openclassrooms.com/fr/paths/877-developpeur-dapplication-javascript-react)
+![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
 ## 💡 Qui suis-je ?
 🏗️
