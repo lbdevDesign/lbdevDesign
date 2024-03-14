@@ -24,7 +24,7 @@ Mon truc ? Créer des interfaces équilibrées entre ergonomie et design !
 
 ### 🚧 Parcours professionnel 
 
-J'ai sculpté mes compétences en travaillant chez Belisoft en tant qu'Ui/Ux Designer, jonglant entre les équipes marketing et de développement pour optimiser un site e-commerce.<br>
+J'ai sculpté mes compétences en travaillant en tant qu'Ui/Ux Designer, jonglant entre les équipes marketing et de développement pour optimiser un site e-commerce.<br>
 Une plongée profonde dans l'univers du design et du code ! 💻✨
 
 ### 🎓 Formation et Expérience Internationale 
