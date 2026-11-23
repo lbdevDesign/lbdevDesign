@@ -1,38 +1,36 @@
-# Hi there 👋 Je m'appelle Lucas 
+# Salut 👋 
 
-Un **développeur front-end** diplômé du parcours [Openclassroom](https://openclassrooms.com/fr/paths/877-developpeur-dapplication-javascript-react)<br>
-<br>
-Technologies :<br>
-![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![image](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)<br>
-![image](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
-![image](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![image](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![image](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)<br>
-<br>
-En cours d'apprentissage :<br>
-![image](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![image](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![image](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
+**Développeur front-end** à Lyon. Je construis des interfaces agréables à utiliser et propres à maintenir, en gardant un œil de designer sur chaque détail.
 
+### 🛠️ Stack principale
 
-## 💡 Qui suis-je ?
-🏗️
-Un aventurier digital avec une formation solide en développement front-end et une passion dévorante pour les expériences utilisateur.<br>
-Mon truc ? Créer des interfaces équilibrées entre ergonomie et design ! 
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Astro](https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### 🚧 Parcours professionnel 
+### 🧰 Aussi dans la boîte à outils
 
-J'ai sculpté mes compétences en travaillant en tant qu'Ui/Ux Designer, jonglant entre les équipes marketing et de développement pour optimiser un site e-commerce.<br>
-Une plongée profonde dans l'univers du design et du code ! 💻✨
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 
-### 🎓 Formation et Expérience Internationale 
+## 💡 Mon parcours
 
-J'ai décroché un Master en Stratégie Digitale à Lyon et un MBA en Web Business en sillonnant les routes de Stockholm, Singapour et San Francisco.<br>
-Une aventure qui a enrichi ma vision stratégique ! 🌍 Je me suis ensuite spécialisé dans la conception d'interfaces, du maquettage 📐 à la production 🏗️
+- 💻 **Aujourd'hui** : développeur front-end dans un studio, sur des projets clients et des outils internes.
+- 🎨 **Avant** : UI/UX designer pour un site e-commerce, entre les équipes marketing et dev. C'est là que j'ai attrapé le virus du code.
+- 🎓 **Formation** : parcours [Développeur d'application JavaScript React](https://openclassrooms.com/fr/paths/877-developpeur-dapplication-javascript-react) (OpenClassrooms), Master en Stratégie Digitale à Lyon et MBA Web Business entre Stockholm, Singapour et San Francisco 🌍
 
-## 🚀 Objectif 2024
+## 🏢 Mon activité pro
 
-Ma mission ? Contribuer à des projets web captivants et continuer à élargir mes horizons dans le design et le développement. 
+L'essentiel de mon travail se fait sur mon compte professionnel, avec des dépôts privés pour la plupart.
+👉 Retrouve mes contributions sur [@TON-PSEUDO-PRO](https://github.com/TON-PSEUDO-PRO)
+
+## 🧪 En ce moment
+
+- J'approfondis **Next.js** et **Astro**
+- Je construis des side projects en **Next.js + Supabase** : une app de préparation running, un tracker de plantes d'intérieur…
