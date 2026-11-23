@@ -1,4 +1,13 @@
-# Salut 👋 
+<!--
+  ASCII art : colle ton rendu entre les deux lignes ``` ci-dessous,
+  puis supprime les balises de commentaire autour pour l'afficher.
+
+```text
+COLLE TON ASCII ART ICI
+```
+-->
+
+# Hello there 
 
 **Développeur front-end** à Lyon. Je construis des interfaces agréables à utiliser et propres à maintenir, en gardant un œil de designer sur chaque détail.
 
@@ -28,7 +37,7 @@
 ## 🏢 Mon activité pro
 
 L'essentiel de mon travail se fait sur mon compte professionnel, avec des dépôts privés pour la plupart.
-👉 Retrouve mes contributions sur [@LucasAgicap][([https://github.com/LucasAgicap)]
+👉 Retrouve mes contributions sur [@LucasAgicap](https://github.com/LucasAgicap)
 
 ## 🧪 En ce moment
 
