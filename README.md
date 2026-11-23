@@ -28,7 +28,7 @@
 ## 🏢 Mon activité pro
 
 L'essentiel de mon travail se fait sur mon compte professionnel, avec des dépôts privés pour la plupart.
-👉 Retrouve mes contributions sur [@LucasAgicap][(https://github.com/TON-PSEUDO-PRO](https://github.com/LucasAgicap))
+👉 Retrouve mes contributions sur [@LucasAgicap][([https://github.com/LucasAgicap)]
 
 ## 🧪 En ce moment
 
