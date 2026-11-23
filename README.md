@@ -21,14 +21,14 @@
 
 ## 💡 Mon parcours
 
-- 💻 **Aujourd'hui** : développeur front-end dans un studio, sur des projets clients et des outils internes.
+- 💻 **Aujourd'hui** : développeur front-end chez Agicap.
 - 🎨 **Avant** : UI/UX designer pour un site e-commerce, entre les équipes marketing et dev. C'est là que j'ai attrapé le virus du code.
 - 🎓 **Formation** : parcours [Développeur d'application JavaScript React](https://openclassrooms.com/fr/paths/877-developpeur-dapplication-javascript-react) (OpenClassrooms), Master en Stratégie Digitale à Lyon et MBA Web Business entre Stockholm, Singapour et San Francisco 🌍
 
 ## 🏢 Mon activité pro
 
 L'essentiel de mon travail se fait sur mon compte professionnel, avec des dépôts privés pour la plupart.
-👉 Retrouve mes contributions sur [@TON-PSEUDO-PRO](https://github.com/TON-PSEUDO-PRO)
+👉 Retrouve mes contributions sur [@LucasAgicap][(https://github.com/TON-PSEUDO-PRO](https://github.com/LucasAgicap))
 
 ## 🧪 En ce moment
 
